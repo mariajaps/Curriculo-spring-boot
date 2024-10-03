@@ -1,0 +1,13 @@
+com\example\curriculo\entidades\Projeto.class
+com\example\curriculo\repository\FormacaoRepository.class
+com\example\curriculo\controllers\FormacaoController.class
+com\example\curriculo\repository\ExperienciaRepository.class
+com\example\curriculo\entidades\Formacao.class
+com\example\curriculo\entidades\Pessoa.class
+com\example\curriculo\controllers\PessoaController.class
+com\example\curriculo\repository\ProjetoRepository.class
+com\example\curriculo\controllers\ProjetoController.class
+com\example\curriculo\CurriculoApplication.class
+com\example\curriculo\repository\PessoaRepository.class
+com\example\curriculo\entidades\Experiencia.class
+com\example\curriculo\controllers\ExperienciaController.class
